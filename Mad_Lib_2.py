@@ -18,10 +18,10 @@ weapon = input('List a weapon: ')
 
 # The Story
 print('-------------------------------------------------------------')
-print('Once upon a time there lived and', size, animal,'who loved to eat', food,'.')
+print('Once upon a time there lived an', size, animal,'who loved to eat', food,'.')
 print('As the', animal, 'was walking through the', landscape, 'he noticed a', building, 'in the distance.')
 print('The name of the', animal, 'was', noun,'.')
-print(noun, 'knoked on the door of the', building, 'but no one answered.')
+print(noun, 'knocked on the door of the', building, 'but no one answered.')
 print(noun, 'saw a window that was open on the', number, 'floor of the', building,'.')
 print('Since everyone knows that', animal, 'are such great jumpers', noun, 'jumped to the window and crawled in.')
 print(noun, 'found that he was standing in the', room,'.')
